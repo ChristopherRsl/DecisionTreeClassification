@@ -3,7 +3,7 @@ st.title("Klasifikasi Tingkat Keparahan Covid-19 Berdasarkan Gejala yang Dialami
 
 import numpy as np
 import pandas as pd
-import seaborn as sns; sns.set();
+import seaborn as sns;
 import matplotlib.pyplot as plt
 # import mglearn
 import graphviz
