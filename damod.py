@@ -6,11 +6,11 @@ import pandas as pd
 import seaborn as sns;
 import matplotlib.pyplot as plt
 # import mglearn
-import graphviz
-import os
+# import graphviz
+# import os
 import warnings
 warnings.filterwarnings('ignore')
-os.environ["PATH"] += os.pathsep + 'C:/Program Files (x86)/Graphviz/bin/'
+# os.environ["PATH"] += os.pathsep + 'C:/Program Files (x86)/Graphviz/bin/'
 from sklearn.tree import DecisionTreeClassifier
 
 from sklearn.model_selection import train_test_split
