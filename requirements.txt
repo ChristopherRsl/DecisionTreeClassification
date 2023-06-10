@@ -10,14 +10,4 @@ numpy
 
 pandas
 
-DecisionTreeClassifier
-
-train_test_split
-
-RandomizedSearchCV
-
-StratifiedKFold
-
-classification_report
-
-plot_confusion_matrix
+scikit-learn
